@@ -10,8 +10,28 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="img_on_boarding">on_boarding</string>
-    <string name="home">Home</string>
-    <string name="swafoody">SWAFOODY</string>
-    <string name="add_your_ingredients_to_get_reciped">add your ingredients to get reciped</string>
+
     <string name="add_ingredients">Add Ingredients</string>
+    <string name="add_ingredients_desc">Get reciped by image of vegetables or fruits</string>
+    <string name="apple">apple</string>
+    <string name="broccoli">broccoli</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="icon_back">icon back</string>
+    <string name="illustration_shrimp">Illustration Shrimp</string>
+    <string name="result_image">Result Image</string>
+    <string name="image_result_2">Image Result 2</string>
+    <string name="get_recipe">Get Recipe</string>
+    <string name="intent_to_add_ingredients">Intent to Add Ingredients</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Add</string>
+    <string name="title_notifications">Profile</string>
+
+    <string name="txt_head_home">SWAFOODY</string>
+    <string name="txt_slogan_home">add your ingredients to get reciped</string>
+    <string name="txt_add_ingredients">Add Ingredients</string>
+    <string name="txt_saved_recipe">Saved Recipe</string>
+    <string name="txt_view_all">View All</string>
+
+    <string name="content_desc_img">Food Description</string>
 </resources>
