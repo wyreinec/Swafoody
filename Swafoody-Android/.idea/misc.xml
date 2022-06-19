@@ -3,14 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable/background.xml" value="0.1905" />
-        <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.1065" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2043177286783854" />
-        <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.20374389648437502" />
+        <entry key="..\:/Android Project/swafoody-android/app/src/main/res/drawable/button_shape_deep_fir.xml" value="0.209" />
+        <entry key="..\:/Android Project/swafoody-android/app/src/main/res/drawable/button_shape_paua.xml" value="0.244" />
+        <entry key="..\:/Android Project/swafoody-android/app/src/main/res/layout/activity_add_ingredients.xml" value="0.264" />
+        <entry key="..\:/Android Project/swafoody-android/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/codelabs/swafoody-android/app/src/main/res/drawable-v24/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/codelabs/swafoody-android/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/codelabs/swafoody-android/app/src/main/res/layout/activity_onboarding.xml" value="0.264" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/codelabs/swafoody-android/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/codelabs/swafoody-android/app/src/main/res/layout/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/codelabs/swafoody-android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
